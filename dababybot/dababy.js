@@ -20,4 +20,4 @@ const client = new Discord.Client();
 
   })
 
- client.login('ODI3NjAzMjc5MTg1MTgyODAw.YGdbnQ.5_0KPreo_AtIVU85vRJWh9OAj2k');
+ client.login('<insert token here>');
